@@ -6,19 +6,19 @@
 
 
 // Our variables
-$base-font-family: 'Cutive Mono', Lucida Console;
+$base-font-family: 'Source Sans Pro', sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
-$head-font-family: 'Playfair Display', serif;
+$head-font-family: 'Libre Baskerville', serif;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #F6F6F6;
+$background-color: #353535;
+$brand-color:      #8FB38D;
 
-$grey-color:       #828282;
+$grey-color:       #F6F6F6;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
