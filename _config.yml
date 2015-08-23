@@ -6,5 +6,5 @@ github_username:  nathanstruhs
 
 # Build settings
 markdown: kramdown
-baseurl: nathanstruhs.github
+baseurl: ""
 exclude: ['README.md']
