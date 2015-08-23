@@ -1,7 +1,7 @@
 # Site settings
 title: Nathan Struhs
 email: nathanstruhs@gmail.com
-url: "http://nathanstruhs.github.com" # the base hostname & protocol for your site
+#url: "http://nathanstruhs.github.com" # the base hostname & protocol for your site
 github_username:  nathanstruhs
 
 # Build settings
