@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="stylesheets/main.css">
 	<link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="icon" type="image/png" href="images/favicon.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="images/nathanstruhs-favicon.png" sizes="32x32">
 </head>
 
 <body>
