@@ -22,8 +22,6 @@ email: struhsn@oregonstate.edu
 navigation:
   - text: Home
     url: /
-  - text: About
-    url: /about
   - text: Resume
     url: /resume
 
