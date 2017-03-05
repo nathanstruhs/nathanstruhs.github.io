@@ -4,8 +4,42 @@ body.hack {
   margin-top: 15px;
 }
 
+.secondary-headline {
+  color: #36609D;
+}
+
 .standard {
   font-family: 'Cutive Mono', monospace;
+}
+
+#love {
+  color: black;
+  transition: 0.5s;
+  transition-timing-function: ease-in-out;
+}
+
+#love-li:hover > #love {
+  color: #D3394C;
+}
+
+#enjoy {
+  color: black;
+  transition: 0.5s;
+  transition-timing-function: ease-in-out;
+}
+
+#enjoy-li:hover > #enjoy {
+  color: #D3394C;
+}
+
+#thrive {
+  color: black;
+  transition: 0.5s;
+  transition-timing-function: ease-in-out;
+}
+
+#thrive-li:hover > #thrive {
+  color: #D3394C;
 }
 
 a {
